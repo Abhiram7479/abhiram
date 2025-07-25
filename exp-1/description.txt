@@ -1,0 +1,2 @@
+This Student Registration Form uses HTML5 validation to ensure the name contains only letters and spaces, the email is in correct format, and age is between 5 and 120. 
+CSS provides a clean and user-friendly layout. JavaScript is used to show custom alert messages if validation fails, enhancing the user experience
