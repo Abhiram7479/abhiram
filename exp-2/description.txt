@@ -1,0 +1,2 @@
+This CSS creates a centered, card-style banking UI with a clean white background, showing a green balance and styled Deposit/Withdraw buttons.
+ It uses Flexbox for centering and modern styling with padding, shadows, and responsive button design.
